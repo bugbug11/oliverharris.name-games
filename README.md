@@ -8,4 +8,4 @@ Changes should be added in this format:
 timestamp: changes
 
 # Luanti online
-3/27/25 8:23 Added repository
+3/27/25 08:23 Added repository
